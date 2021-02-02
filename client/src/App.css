@@ -1,0 +1,69 @@
+.App {
+  text-align: center;
+  height:100%;
+}
+
+body, html {
+  height: 100%;
+  background-color: #FF9900;
+}
+
+.bg-color {
+  background-color : #FF9900;
+  height: 100% ;
+  width: 100%
+}
+
+.header-color {
+  background-color: #783F04;
+}
+
+.btn-colors {
+  background-color:#085394 ;
+}
+
+.form-grouping {
+  display: inline-block ; 
+  width : 50%
+}
+
+.full-screen {
+  height: 100%;
+  background-color:#FF9900 ;
+}
+
+.pirate-card {
+  width: 75%;
+  background-color: white;
+  border:5px solid black;
+}
+
+.pirate-icon {
+  height: 190px;
+  margin-right: auto;
+  display: inline-block
+}
+.pirate-card-header {
+  display:inline-block;
+}
+
+.about-me-image {
+  height: 400px;
+}
+.about-me-catchPhrase{
+  display: block;
+  font-weight: 1000
+}
+.about-section {
+  display: inline-block;
+  vertical-align: top;
+  background-color: white;
+  border: 3px solid black;
+  width: 40%;
+  height: 100% ;
+}
+.image-catchphrase {
+  width: 40%;
+  display:inline-block
+
+}
